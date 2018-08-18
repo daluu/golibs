@@ -5,6 +5,8 @@ https://github.com/quii/learn-go-with-tests
 https://github.com/arschles/go-in-5-minutes
 https://github.com/arschles/talks
 
+https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/
+
 # go pkg mgmt
 https://github.com/Masterminds/glide
 https://github.com/kardianos/govendor
