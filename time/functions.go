@@ -31,7 +31,7 @@ func UnixMillisec(ts time.Time) int64 {
 	return ts.UnixNano() / 1000 / 1000
 }
 
-func formatDuration(duration time.Duration, decimalPrecision int) string {
+func FormatDuration(duration time.Duration, decimalPrecision int) string {
 	formatString := "%." + fmt.Sprintf("%d", decimalPrecision) + "f"
 	h := duration.Hours()
 	m := duration.Minutes()
